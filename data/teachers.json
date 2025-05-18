@@ -1,0 +1,69 @@
+{
+    "teachers": [
+        {
+            "firstName": "ROCHE",
+            "lastName": "GWAPO",
+            "assignedSubject": [
+                "CC-DASTRUC22"
+            ],
+            "assignedSubjects": [
+                "CC-ACCTG21"
+            ],
+            "id": "666999",
+            "position": "Instructor",
+            "department": "CCS",
+            "email": "roche96@gmail.com"
+        },
+        {
+            "firstName": "COLAO",
+            "lastName": "SK",
+            "assignedSubject": [
+                "PE 104"
+            ],
+            "assignedSubjects": [
+                "ENGL 100",
+                "ENGL 101"
+            ],
+            "id": "12345",
+            "position": "instructor",
+            "department": "CCS",
+            "email": "colao@gmail.com"
+        },
+        {
+            "firstName": "jon",
+            "lastName": "dhale",
+            "assignedSubjects": [
+                "CC-COMPROG11",
+                "CC-COMPROG12",
+                "IT-OOPROG21"
+            ],
+            "id": "654321",
+            "position": "instructor",
+            "department": "CCS",
+            "email": "dhale@gmail.com"
+        },
+        {
+            "firstName": "asfvb",
+            "lastName": "aksjdb",
+            "assignedSubjects": [
+                "CC-ACCTG21",
+                "CC-APPSDEV22"
+            ],
+            "id": "666212",
+            "position": "AKDSJB",
+            "department": "CSS",
+            "email": "avj@gmail.com"
+        },
+        {
+            "firstName": "kill",
+            "lastName": "me",
+            "assignedSubjects": [
+                
+            ],
+            "id": "963",
+            "position": "instructorSLNG",
+            "department": "NURSE",
+            "email": "me@gmail.com"
+        }
+    ]
+}

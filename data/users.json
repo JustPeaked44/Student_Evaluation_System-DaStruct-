@@ -1,0 +1,59 @@
+{
+    "users": [
+        {
+            "password": "llll",
+            "role": "Admin",
+            "username": "admin"
+        },
+        {
+            "password": "6969",
+            "role": "Teacher",
+            "username": "666999"
+        },
+        {
+            "password": "12345WKAJ",
+            "role": "Teacher",
+            "username": "12345"
+        },
+        {
+            "password": "6969VBGS",
+            "role": "Student",
+            "username": "6969"
+        },
+        {
+            "password": "5432POID",
+            "role": "Student",
+            "username": "5432"
+        },
+        {
+            "password": "654321HBZG",
+            "role": "Teacher",
+            "username": "654321"
+        },
+        {
+            "password": "666212ECUC",
+            "role": "Teacher",
+            "username": "666212"
+        },
+        {
+            "password": "9638XWZF",
+            "role": "Student",
+            "username": "9638"
+        },
+        {
+            "password": "7418CEOT",
+            "role": "Student",
+            "username": "7418"
+        },
+        {
+            "password": "PLANDO",
+            "role": "Teacher",
+            "username": "963"
+        },
+        {
+            "password": "5555ALLO",
+            "role": "Student",
+            "username": "5555"
+        }
+    ]
+}

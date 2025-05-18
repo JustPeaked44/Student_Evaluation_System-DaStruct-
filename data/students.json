@@ -1,0 +1,44 @@
+{
+    "students": [
+        {
+            "firstName": "aaron",
+            "lastName": "gwapa",
+            "yearLevel": "2nd Year",
+            "semester": "2nd Semester",
+            "id": "6969",
+            "email": "arron@gmail.com"
+        },
+        {
+            "firstName": "klen",
+            "lastName": "messiah",
+            "yearLevel": "1st Year",
+            "semester": "2nd Semester",
+            "id": "5432",
+            "email": "messiah@gmail.com"
+        },
+        {
+            "firstName": "asljbgg",
+            "lastName": "asjb",
+            "yearLevel": "4th Year",
+            "semester": "1st Semester",
+            "id": "9638",
+            "email": "aslsjdb@gmail.com"
+        },
+        {
+            "firstName": "kim",
+            "lastName": "rapsing",
+            "yearLevel": "1st Year",
+            "semester": "1st Semester",
+            "id": "7418",
+            "email": "rapsing@gmail.com"
+        },
+        {
+            "firstName": "likk",
+            "lastName": "balls",
+            "yearLevel": "1st Year",
+            "semester": "1st Semester",
+            "id": "5555",
+            "email": "bals@gmail.com"
+        }
+    ]
+}

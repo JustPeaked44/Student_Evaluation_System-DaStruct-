@@ -1,0 +1,340 @@
+{
+    "enrollments": [
+        {
+            
+        },
+        {
+            "studentId": "5432",
+            "yearLevel": "1st Year",
+            "subjects": [
+                {
+                    "code": "HUM 101",
+                    "grade": 0.0,
+                    "name": "Art Appreciation",
+                    "units": 3
+                }
+            ],
+            "semester": "2nd Semester",
+            "status": "Enrolled"
+        },
+        {
+            "studentId": "9638",
+            "yearLevel": "1st Year",
+            "subjects": [
+                {
+                    "code": "ENGL 100",
+                    "grade": 3.0,
+                    "name": "Communication Arts",
+                    "units": 3
+                },
+                {
+                    "code": "SOCIO 102",
+                    "grade": 0.0,
+                    "name": "Gender and Society",
+                    "units": 3
+                },
+                {
+                    "code": "MATH 100",
+                    "grade": 0.0,
+                    "name": "College Mathematics",
+                    "units": 3
+                },
+                {
+                    "code": "PSYCH 101",
+                    "grade": 0.0,
+                    "name": "Understanding the Self",
+                    "units": 3
+                },
+                {
+                    "code": "CC-INTCOM11",
+                    "grade": 0.0,
+                    "name": "Introduction to Computing",
+                    "units": 3
+                },
+                {
+                    "code": "CC-COMPROG11",
+                    "grade": 2.0,
+                    "name": "Computer Programming 1",
+                    "units": 3
+                },
+                {
+                    "code": "IT-WEBDEV11",
+                    "grade": 0.0,
+                    "name": "Web Design & Development",
+                    "units": 3
+                },
+                {
+                    "code": "PE 101",
+                    "grade": 0.0,
+                    "name": "Movement Competency Training (PATHFit 1)",
+                    "units": 2
+                },
+                {
+                    "code": "NSTP 101",
+                    "grade": 0.0,
+                    "name": "National Service Training Program 1",
+                    "units": 3
+                }
+            ],
+            "semester": "1st Semester",
+            "status": "Enrolled"
+        },
+        {
+            "studentId": "9638",
+            "yearLevel": "1st Year",
+            "subjects": [
+                {
+                    "code": "HIST 101",
+                    "grade": 0.0,
+                    "name": "Readings in Philippine History",
+                    "units": 3
+                }
+            ],
+            "semester": "2nd Semester",
+            "status": "Enrolled"
+        },
+        {
+            "studentId": "9638",
+            "yearLevel": "2nd Year",
+            "subjects": [
+                {
+                    "code": "CC-COMPROG11",
+                    "grade": 0.0,
+                    "name": "Computer Programming 1",
+                    "units": 3
+                }
+            ],
+            "semester": "1st Semester",
+            "status": "Enrolled"
+        },
+        {
+            "studentId": "9638",
+            "yearLevel": "2nd Year",
+            "subjects": [
+                {
+                    "code": "PHILO 101",
+                    "grade": 0.0,
+                    "name": "Ethics",
+                    "units": 3
+                },
+                {
+                    "code": "STS 101",
+                    "grade": 0.0,
+                    "name": "Science,
+                     Technology & Society",
+                    "units": 3
+                }
+            ],
+            "semester": "2nd Semester",
+            "status": "Enrolled"
+        },
+        {
+            "studentId": "9638",
+            "yearLevel": "3rd Year",
+            "subjects": [
+                {
+                    "code": "CC-COMPROG11",
+                    "grade": 0.0,
+                    "name": "Computer Programming 1",
+                    "units": 3
+                },
+                {
+                    "code": "IT-EL1",
+                    "grade": 0.0,
+                    "name": "IT Elective 1",
+                    "units": 3
+                },
+                {
+                    "code": "IT-FRE1",
+                    "grade": 0.0,
+                    "name": "Free Elective 1",
+                    "units": 3
+                },
+                {
+                    "code": "IT-FRE2",
+                    "grade": 0.0,
+                    "name": "Free Elective 2",
+                    "units": 3
+                }
+            ],
+            "semester": "1st Semester",
+            "status": "Enrolled"
+        },
+        {
+            "studentId": "9638",
+            "yearLevel": "3rd Year",
+            "subjects": [
+                {
+                    "code": "IT-EL2",
+                    "grade": 0.0,
+                    "name": "IT Elective 2",
+                    "units": 3
+                },
+                {
+                    "code": "IT-FRE3",
+                    "grade": 0.0,
+                    "name": "Free Elective 3",
+                    "units": 3
+                }
+            ],
+            "semester": "2nd Semester",
+            "status": "Enrolled"
+        },
+        {
+            "studentId": "9638",
+            "yearLevel": "4th Year",
+            "subjects": [
+                {
+                    "code": "CC-COMPROG11",
+                    "grade": 0.0,
+                    "name": "Computer Programming 1",
+                    "units": 3
+                },
+                {
+                    "code": "IT-EL3",
+                    "grade": 0.0,
+                    "name": "IT Elective 3",
+                    "units": 3
+                },
+                {
+                    "code": "IT-FRE4",
+                    "grade": 0.0,
+                    "name": "Free Elective 4",
+                    "units": 3
+                },
+                {
+                    "code": "LIT 11",
+                    "grade": 0.0,
+                    "name": "Literatures of the World",
+                    "units": 3
+                }
+            ],
+            "semester": "1st Semester",
+            "status": "Enrolled"
+        },
+        {
+            "studentId": "7418",
+            "yearLevel": "1st Year",
+            "subjects": [
+                {
+                    "code": "ENGL 100",
+                    "grade": 0.0,
+                    "name": "Communication Arts",
+                    "units": 3
+                },
+                {
+                    "code": "SOCIO 102",
+                    "grade": 0.0,
+                    "name": "Gender and Society",
+                    "units": 3
+                },
+                {
+                    "code": "MATH 100",
+                    "grade": 0.0,
+                    "name": "College Mathematics",
+                    "units": 3
+                },
+                {
+                    "code": "PSYCH 101",
+                    "grade": 0.0,
+                    "name": "Understanding the Self",
+                    "units": 3
+                },
+                {
+                    "code": "CC-INTCOM11",
+                    "grade": 0.0,
+                    "name": "Introduction to Computing",
+                    "units": 3
+                },
+                {
+                    "code": "CC-COMPROG11",
+                    "grade": 0.0,
+                    "name": "Computer Programming 1",
+                    "units": 3
+                },
+                {
+                    "code": "IT-WEBDEV11",
+                    "grade": 0.0,
+                    "name": "Web Design & Development",
+                    "units": 3
+                },
+                {
+                    "code": "PE 101",
+                    "grade": 0.0,
+                    "name": "Movement Competency Training (PATHFit 1)",
+                    "units": 2
+                },
+                {
+                    "code": "NSTP 101",
+                    "grade": 0.0,
+                    "name": "National Service Training Program 1",
+                    "units": 3
+                }
+            ],
+            "semester": "1st Semester",
+            "status": "Enrolled"
+        },
+        {
+            "studentId": "5555",
+            "yearLevel": "1st Year",
+            "subjects": [
+                {
+                    "code": "ENGL 100",
+                    "grade": 0.0,
+                    "name": "Communication Arts",
+                    "units": 3
+                },
+                {
+                    "code": "SOCIO 102",
+                    "grade": 0.0,
+                    "name": "Gender and Society",
+                    "units": 3
+                },
+                {
+                    "code": "MATH 100",
+                    "grade": 0.0,
+                    "name": "College Mathematics",
+                    "units": 3
+                },
+                {
+                    "code": "PSYCH 101",
+                    "grade": 0.0,
+                    "name": "Understanding the Self",
+                    "units": 3
+                },
+                {
+                    "code": "CC-INTCOM11",
+                    "grade": 0.0,
+                    "name": "Introduction to Computing",
+                    "units": 3
+                },
+                {
+                    "code": "CC-COMPROG11",
+                    "grade": 0.0,
+                    "name": "Computer Programming 1",
+                    "units": 3
+                },
+                {
+                    "code": "IT-WEBDEV11",
+                    "grade": 0.0,
+                    "name": "Web Design & Development",
+                    "units": 3
+                },
+                {
+                    "code": "PE 101",
+                    "grade": 0.0,
+                    "name": "Movement Competency Training (PATHFit 1)",
+                    "units": 2
+                },
+                {
+                    "code": "NSTP 101",
+                    "grade": 0.0,
+                    "name": "National Service Training Program 1",
+                    "units": 3
+                }
+            ],
+            "semester": "1st Semester",
+            "status": "Enrolled"
+        }
+    ]
+}

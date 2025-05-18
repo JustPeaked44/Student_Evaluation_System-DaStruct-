@@ -1,0 +1,638 @@
+{
+    "subjects": [
+        {
+            "prerequisites": [
+                
+            ],
+            "code": "ENGL 100",
+            "yearLevel": "1st Year",
+            "name": "Communication Arts",
+            "semester": "1st Semester",
+            "units": 3,
+            "department": "General Education"
+        },
+        {
+            "prerequisites": [
+                
+            ],
+            "code": "SOCIO 102",
+            "yearLevel": "1st Year",
+            "name": "Gender and Society",
+            "semester": "1st Semester",
+            "units": 3,
+            "department": "General Education"
+        },
+        {
+            "prerequisites": [
+                
+            ],
+            "code": "MATH 100",
+            "yearLevel": "1st Year",
+            "name": "College Mathematics",
+            "semester": "1st Semester",
+            "units": 3,
+            "department": "General Education"
+        },
+        {
+            "prerequisites": [
+                
+            ],
+            "code": "PSYCH 101",
+            "yearLevel": "1st Year",
+            "name": "Understanding the Self",
+            "semester": "1st Semester",
+            "units": 3,
+            "department": "General Education"
+        },
+        {
+            "prerequisites": [
+                
+            ],
+            "code": "CC-INTCOM11",
+            "yearLevel": "1st Year",
+            "name": "Introduction to Computing",
+            "semester": "1st Semester",
+            "units": 3,
+            "department": "College of Computer Studies"
+        },
+        {
+            "prerequisites": [
+                
+            ],
+            "code": "CC-COMPROG11",
+            "yearLevel": "1st Year",
+            "name": "Computer Programming 1",
+            "semester": "1st Semester",
+            "units": 3,
+            "department": "College of Computer Studies"
+        },
+        {
+            "prerequisites": [
+                
+            ],
+            "code": "IT-WEBDEV11",
+            "yearLevel": "1st Year",
+            "name": "Web Design & Development",
+            "semester": "1st Semester",
+            "units": 3,
+            "department": "College of Computer Studies"
+        },
+        {
+            "prerequisites": [
+                
+            ],
+            "code": "PE 101",
+            "yearLevel": "1st Year",
+            "name": "Movement Competency Training (PATHFit 1)",
+            "semester": "1st Semester",
+            "units": 2,
+            "department": "Physical Education"
+        },
+        {
+            "prerequisites": [
+                
+            ],
+            "code": "NSTP 101",
+            "yearLevel": "1st Year",
+            "name": "National Service Training Program 1",
+            "semester": "1st Semester",
+            "units": 3,
+            "department": "NSTP"
+        },
+        {
+            "prerequisites": [
+                "ENGL 100"
+            ],
+            "code": "ENGL 101",
+            "yearLevel": "1st Year",
+            "name": "Purposive Communication",
+            "semester": "2nd Semester",
+            "units": 3,
+            "department": "General Education"
+        },
+        {
+            "prerequisites": [
+                
+            ],
+            "code": "ENTREP 101",
+            "yearLevel": "1st Year",
+            "name": "The Entrepreneurial Mind",
+            "semester": "2nd Semester",
+            "units": 3,
+            "department": "General Education"
+        },
+        {
+            "prerequisites": [
+                "MATH 100"
+            ],
+            "code": "MATH 101",
+            "yearLevel": "1st Year",
+            "name": "Mathematics in the Modern World",
+            "semester": "2nd Semester",
+            "units": 3,
+            "department": "General Education"
+        },
+        {
+            "prerequisites": [
+                
+            ],
+            "code": "HIST 101",
+            "yearLevel": "1st Year",
+            "name": "Readings in Philippine History",
+            "semester": "2nd Semester",
+            "units": 3,
+            "department": "General Education"
+        },
+        {
+            "prerequisites": [
+                
+            ],
+            "code": "HUM 101",
+            "yearLevel": "1st Year",
+            "name": "Art Appreciation",
+            "semester": "2nd Semester",
+            "units": 3,
+            "department": "General Education"
+        },
+        {
+            "prerequisites": [
+                "CC-COMPROG11"
+            ],
+            "code": "CC-COMPROG12",
+            "yearLevel": "1st Year",
+            "name": "Computer Programming 2",
+            "semester": "2nd Semester",
+            "units": 3,
+            "department": "College of Computer Studies"
+        },
+        {
+            "prerequisites": [
+                "CC-INTCOM11"
+            ],
+            "code": "CC-DISCRET12",
+            "yearLevel": "1st Year",
+            "name": "Discrete Structures",
+            "semester": "2nd Semester",
+            "units": 3,
+            "department": "College of Computer Studies"
+        },
+        {
+            "prerequisites": [
+                "PE 101"
+            ],
+            "code": "PE 102",
+            "yearLevel": "1st Year",
+            "name": "Exercise-based Fitness Activities (PATHFit 2)",
+            "semester": "2nd Semester",
+            "units": 2,
+            "department": "Physical Education"
+        },
+        {
+            "prerequisites": [
+                "NSTP 101"
+            ],
+            "code": "NSTP 102",
+            "yearLevel": "1st Year",
+            "name": "National Service Training Program 2",
+            "semester": "2nd Semester",
+            "units": 3,
+            "department": "NSTP"
+        },
+        {
+            "prerequisites": [
+                
+            ],
+            "code": "SOCIO 101",
+            "yearLevel": "2nd Year",
+            "name": "The Contemporary World",
+            "semester": "1st Semester",
+            "units": 3,
+            "department": "General Education"
+        },
+        {
+            "prerequisites": [
+                
+            ],
+            "code": "RIZAL 101",
+            "yearLevel": "2nd Year",
+            "name": "Life,
+            \n            \n            \n            \n            \n             Works & Writings of Dr. Jose Rizal",
+            "semester": "1st Semester",
+            "units": 3,
+            "department": "General Education"
+        },
+        {
+            "prerequisites": [
+                "CC-DISCRET12"
+            ],
+            "code": "CC-DIGILOG21",
+            "yearLevel": "2nd Year",
+            "name": "Digital Logic Design",
+            "semester": "1st Semester",
+            "units": 3,
+            "department": "College of Computer Studies"
+        },
+        {
+            "prerequisites": [
+                "CC-COMPROG12"
+            ],
+            "code": "IT-OOPROG21",
+            "yearLevel": "2nd Year",
+            "name": "Object Oriented Programming",
+            "semester": "1st Semester",
+            "units": 3,
+            "department": "College of Computer Studies"
+        },
+        {
+            "prerequisites": [
+                "CC-COMPROG12"
+            ],
+            "code": "IT-SAD21",
+            "yearLevel": "2nd Year",
+            "name": "System Analysis & Design",
+            "semester": "1st Semester",
+            "units": 3,
+            "department": "College of Computer Studies"
+        },
+        {
+            "prerequisites": [
+                "MATH 101"
+            ],
+            "code": "CC-ACCTG21",
+            "yearLevel": "2nd Year",
+            "name": "Accounting for IT",
+            "semester": "1st Semester",
+            "units": 3,
+            "department": "College of Computer Studies"
+        },
+        {
+            "prerequisites": [
+                "ENGL 101",
+                "CC-INTCOM11"
+            ],
+            "code": "CC-TWRITE21",
+            "yearLevel": "2nd Year",
+            "name": "Technical Writing & Presentation Skills in IT",
+            "semester": "1st Semester",
+            "units": 3,
+            "department": "College of Computer Studies"
+        },
+        {
+            "prerequisites": [
+                "PE 102"
+            ],
+            "code": "PE 103",
+            "yearLevel": "2nd Year",
+            "name": "Sports and Dance (PATHFit 3)",
+            "semester": "1st Semester",
+            "units": 2,
+            "department": "Physical Education"
+        },
+        {
+            "prerequisites": [
+                
+            ],
+            "code": "STS 101",
+            "yearLevel": "2nd Year",
+            "name": "Science,
+            \n            \n            \n            \n            \n             Technology & Society",
+            "semester": "2nd Semester",
+            "units": 3,
+            "department": "General Education"
+        },
+        {
+            "prerequisites": [
+                
+            ],
+            "code": "PHILO 101",
+            "yearLevel": "2nd Year",
+            "name": "Ethics",
+            "semester": "2nd Semester",
+            "units": 3,
+            "department": "General Education"
+        },
+        {
+            "prerequisites": [
+                "CC-DISCRET12"
+            ],
+            "code": "CC-QUAMETH22",
+            "yearLevel": "2nd Year",
+            "name": "Quantitative Methods w\/ Prob. Stat.",
+            "semester": "2nd Semester",
+            "units": 3,
+            "department": "College of Computer Studies"
+        },
+        {
+            "prerequisites": [
+                "CC-DIGILOG21"
+            ],
+            "code": "IT-PLATECH22",
+            "yearLevel": "2nd Year",
+            "name": "Platform Technologies w\/ Op. Sys.",
+            "semester": "2nd Semester",
+            "units": 3,
+            "department": "College of Computer Studies"
+        },
+        {
+            "prerequisites": [
+                "IT-OOPROG21",
+                "IT-SAD21"
+            ],
+            "code": "CC-APPSDEV22",
+            "yearLevel": "2nd Year",
+            "name": "Applications Dev't & Emerging Tech.",
+            "semester": "2nd Semester",
+            "units": 3,
+            "department": "College of Computer Studies"
+        },
+        {
+            "prerequisites": [
+                "IT-OOPROG21"
+            ],
+            "code": "CC-DASTRUC22",
+            "yearLevel": "2nd Year",
+            "name": "Data Structures & Algorithms",
+            "semester": "2nd Semester",
+            "units": 3,
+            "department": "College of Computer Studies"
+        },
+        {
+            "prerequisites": [
+                "CC-DIGILOG21"
+            ],
+            "code": "CC-DATACOM22",
+            "yearLevel": "2nd Year",
+            "name": "Data Communications",
+            "semester": "2nd Semester",
+            "units": 3,
+            "department": "College of Computer Studies"
+        },
+        {
+            "prerequisites": [
+                "PE 103"
+            ],
+            "code": "PE 104",
+            "yearLevel": "2nd Year",
+            "name": "Sports\/Outdoor Adventure (PATHFit 4)",
+            "semester": "2nd Semester",
+            "units": 2,
+            "department": "Physical Education"
+        },
+        {
+            "prerequisites": [
+                "CC-APPSDEV22"
+            ],
+            "code": "IT-IMDBSYS31",
+            "yearLevel": "3rd Year",
+            "name": "Information Management (DB Sys.1)",
+            "semester": "1st Semester",
+            "units": 3,
+            "department": "College of Computer Studies"
+        },
+        {
+            "prerequisites": [
+                "CC-DATACOM22"
+            ],
+            "code": "IT-NETWORK31",
+            "yearLevel": "3rd Year",
+            "name": "Computer Networks",
+            "semester": "1st Semester",
+            "units": 3,
+            "department": "College of Computer Studies"
+        },
+        {
+            "prerequisites": [
+                "CC-APPSDEV22"
+            ],
+            "code": "IT-TESTQUA31",
+            "yearLevel": "3rd Year",
+            "name": "Testing & Quality Assurance",
+            "semester": "1st Semester",
+            "units": 3,
+            "department": "College of Computer Studies"
+        },
+        {
+            "prerequisites": [
+                "IT-SAD21"
+            ],
+            "code": "CC-HCI31",
+            "yearLevel": "3rd Year",
+            "name": "Human Computer Interaction",
+            "semester": "1st Semester",
+            "units": 3,
+            "department": "College of Computer Studies"
+        },
+        {
+            "prerequisites": [
+                "CC-TWRITE21",
+                "CC-QUAMETH22"
+            ],
+            "code": "CC-RESCOM31",
+            "yearLevel": "3rd Year",
+            "name": "Methods of Research in Computing",
+            "semester": "1st Semester",
+            "units": 3,
+            "department": "College of Computer Studies"
+        },
+        {
+            "prerequisites": [
+                
+            ],
+            "code": "IT-EL1",
+            "yearLevel": "3rd Year",
+            "name": "IT Elective 1",
+            "semester": "1st Semester",
+            "units": 3,
+            "department": "College of Computer Studies"
+        },
+        {
+            "prerequisites": [
+                
+            ],
+            "code": "IT-FRE1",
+            "yearLevel": "3rd Year",
+            "name": "Free Elective 1",
+            "semester": "1st Semester",
+            "units": 3,
+            "department": "University Wide"
+        },
+        {
+            "prerequisites": [
+                
+            ],
+            "code": "IT-FRE2",
+            "yearLevel": "3rd Year",
+            "name": "Free Elective 2",
+            "semester": "1st Semester",
+            "units": 3,
+            "department": "University Wide"
+        },
+        {
+            "prerequisites": [
+                "IT-IMDBSYS31"
+            ],
+            "code": "IT-IMDBSYS32",
+            "yearLevel": "3rd Year",
+            "name": "Information Management (DB Sys. 2)",
+            "semester": "2nd Semester",
+            "units": 3,
+            "department": "College of Computer Studies"
+        },
+        {
+            "prerequisites": [
+                "IT-IMDBSYS31",
+                "IT-NETWORK31"
+            ],
+            "code": "IT-INFOSEC32",
+            "yearLevel": "3rd Year",
+            "name": "Information Assurance & Security",
+            "semester": "2nd Semester",
+            "units": 3,
+            "department": "College of Computer Studies"
+        },
+        {
+            "prerequisites": [
+                "IT-TESTQUA31",
+                "CC-HCI31"
+            ],
+            "code": "IT-SYSARCH32",
+            "yearLevel": "3rd Year",
+            "name": "System Integration & Architecture",
+            "semester": "2nd Semester",
+            "units": 3,
+            "department": "College of Computer Studies"
+        },
+        {
+            "prerequisites": [
+                "CC-RESCOM31"
+            ],
+            "code": "CC-TECHNO32",
+            "yearLevel": "3rd Year",
+            "name": "Technopreneurship",
+            "semester": "2nd Semester",
+            "units": 3,
+            "department": "College of Computer Studies"
+        },
+        {
+            "prerequisites": [
+                "IT-IMDBSYS31"
+            ],
+            "code": "IT-INTPROG32",
+            "yearLevel": "3rd Year",
+            "name": "Integrative Prog'g & Technologies",
+            "semester": "2nd Semester",
+            "units": 3,
+            "department": "College of Computer Studies"
+        },
+        {
+            "prerequisites": [
+                "IT-NETWORK31"
+            ],
+            "code": "IT-SYSADMN32",
+            "yearLevel": "3rd Year",
+            "name": "Systems Administration & Maintenance",
+            "semester": "2nd Semester",
+            "units": 3,
+            "department": "College of Computer Studies"
+        },
+        {
+            "prerequisites": [
+                
+            ],
+            "code": "IT-EL2",
+            "yearLevel": "3rd Year",
+            "name": "IT Elective 2",
+            "semester": "2nd Semester",
+            "units": 3,
+            "department": "College of Computer Studies"
+        },
+        {
+            "prerequisites": [
+                
+            ],
+            "code": "IT-FRE3",
+            "yearLevel": "3rd Year",
+            "name": "Free Elective 3",
+            "semester": "2nd Semester",
+            "units": 3,
+            "department": "University Wide"
+        },
+        {
+            "prerequisites": [
+                
+            ],
+            "code": "IT-CPSTONE30",
+            "yearLevel": "Summer",
+            "name": "Capstone Project 1",
+            "semester": "Summer",
+            "units": 3,
+            "department": "College of Computer Studies"
+        },
+        {
+            "prerequisites": [
+                
+            ],
+            "code": "CC-PROFIS10",
+            "yearLevel": "Summer",
+            "name": "Professional Issues in Computing",
+            "semester": "Summer",
+            "units": 3,
+            "department": "College of Computer Studies"
+        },
+        {
+            "prerequisites": [
+                
+            ],
+            "code": "LIT 11",
+            "yearLevel": "4th Year",
+            "name": "Literatures of the World",
+            "semester": "1st Semester",
+            "units": 3,
+            "department": "General Education"
+        },
+        {
+            "prerequisites": [
+                "IT-CPSTONE30"
+            ],
+            "code": "IT-CPSTONE40",
+            "yearLevel": "4th Year",
+            "name": "Capstone Project 2",
+            "semester": "1st Semester",
+            "units": 3,
+            "department": "College of Computer Studies"
+        },
+        {
+            "prerequisites": [
+                
+            ],
+            "code": "IT-EL3",
+            "yearLevel": "4th Year",
+            "name": "IT Elective 3",
+            "semester": "1st Semester",
+            "units": 3,
+            "department": "College of Computer Studies"
+        },
+        {
+            "prerequisites": [
+                
+            ],
+            "code": "IT-FRE4",
+            "yearLevel": "4th Year",
+            "name": "Free Elective 4",
+            "semester": "1st Semester",
+            "units": 3,
+            "department": "University Wide"
+        },
+        {
+            "prerequisites": [
+                
+            ],
+            "code": "IT-EL4",
+            "yearLevel": "4th Year",
+            "name": "IT Elective 4",
+            "semester": "2nd Semester",
+            "units": 3,
+            "department": "College of Computer Studies"
+        }
+    ]
+}
